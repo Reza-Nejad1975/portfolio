@@ -23,4 +23,4 @@ In addition to my technical acumen, I am deeply passionate about mentoring and c
 When I’m not solving IT challenges, I enjoy swimming, playing the piano, and exploring the latest advancements in technology.
 
 Feel free to connect with me on<a
-href="https://www.linkedin.com/in/richard-nejad-0263492"> LinkedIn </a>or explore my profile on<a href="https://learn.microsoft.com/en-us/users/rezanejad-5436/transcript/7xoo1uzwq5o4k69"> Microsoft </a>to learn more about my certification and how I can assist your organisation.
+href="https://www.linkedin.com/in/richard-nejad-0263492a/"> LinkedIn </a>or explore my profile on<a href="https://learn.microsoft.com/en-us/users/rezanejad-5436/transcript/7xoo1uzwq5o4k69"> Microsoft </a>to learn more about my certification and how I can assist your organisation.
