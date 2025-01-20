@@ -11,6 +11,13 @@ I am a distinguished professional specialising in developing, implementing, and 
 
 - ## Certificastions & Educations
 
+- ## Projects:
+  ### Online Sales Data analisis and creating daynamic excell dashbord
+  ### Power Data dashboard with engineering data with power qyery and build dashboard with Power BI
+
+
+  ### [Website developing and converting flash website to html/CSS](https://reza-nejad1975.github.io/Kathleen-McArthur/) 
+
 - ## Commitment to Professional Growth
 To remain at the forefront of this ever-evolving industry, I am pursuing a master’s degree in Information and Communication Technology. I have also earned several key certifications to deepen my knowledge and provide value to my clients, including:
 
