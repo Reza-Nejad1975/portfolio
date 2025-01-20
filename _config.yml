@@ -1,5 +1,5 @@
 title: Reza Nejad
-# logo:<a href= /Asset/images/reza-pic1.png ></a>
+#logo: ![] (/Asset/images/reza-pic1.png)
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
