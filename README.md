@@ -1,8 +1,6 @@
-##  &nbsp;  &nbsp;  &nbsp;  &nbsp;        &nbsp;          &nbsp; <a href="https://reza-nejad1975.github.io/portfolio/">Home</a>    &nbsp;  <a href="https://reza-nejad1975.github.io/Projects/"> Project </a>  &nbsp;  <a href="https://reza-nejad1975.github.io/Projects/"> Bolg </a>  &nbsp;  <a href="https://reza-nejad1975.github.io/Projects/"> Pages </a>
+##  &nbsp;  &nbsp;  &nbsp;  &nbsp;        &nbsp;          &nbsp; <a href="https://reza-nejad1975.github.io/portfolio/">Home</a> 
 
   
-
-
 ## Hello There &#128075;  
 
 ### IT Consultant, Wintel Engineer, Data Analysis, Junior Project Manger and Solutions Architect
@@ -16,7 +14,7 @@ I am a distinguished professional specialising in developing, implementing, and 
 
 - ## Certificastions & Educations
 
-- ## Projects:
+- ## a href="https://reza-nejad1975.github.io/Projects/"> Projects </a>
   ### Online Sales Data analisis and creating daynamic excell dashbord
   ### Power Data dashboard with engineering data with power qyery and build dashboard with Power BI
 
