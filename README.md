@@ -14,7 +14,7 @@ I am a distinguished professional specialising in developing, implementing, and 
 
 - ## Certificastions & Educations
 
-- ## a href="https://reza-nejad1975.github.io/Projects/"> Projects </a>
+- ## <a href="https://reza-nejad1975.github.io/Projects/"> Projects </a>
   ### Online Sales Data analisis and creating daynamic excell dashbord
   ### Power Data dashboard with engineering data with power qyery and build dashboard with Power BI
 
