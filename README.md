@@ -12,7 +12,12 @@ I am a distinguished professional specialising in developing, implementing, and 
 - ## Areas of Expertise
   My extensive experience in managing information technology infrastructure, developing networks, and administering systems is a significant advantage. I excel in cloud computing, cybersecurity, and navigating the intricacies of obtaining innovation approvals from Microsoft. My participation in significant IT initiatives across Iran, UAE, and Australia has allowed me to build a strong reputation for delivering outstanding results in network security improvements and system virtualisation.
 
-- ## Certificastions & Educations
+- ### Certificastions & Educations
+- Master in Information Communication and Technology ( Australia 2025 University of the Sunshine Coast)
+- Microsoft Certified System/ Administrator 2003, 2008, 2012 and Microsoft Certified  IT Professional 2008
+- IT Specialist in Python 2023
+- Microsoft Certified Azure AI Fundamentals 2024
+- Microsoft Certified Security, Compliance, and Identify Fundamentals 2024
 
 - ## <a href="https://reza-nejad1975.github.io/Projects/"> Projects </a>
   ### Online Sales Data analisis and creating daynamic excell dashbord
